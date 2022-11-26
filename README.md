@@ -34,7 +34,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Links
 
 
-- Live Site URL: [Profile Card Component by Earthyy](...)
+- Live Site URL: [Profile Card Component by Earthyy](https://earthyy-profile-card-component.netlify.app/)
 
 ## My process
 
